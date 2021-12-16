@@ -1,0 +1,12 @@
+.card-img-top1{
+    height: 250px;
+}
+
+@media screen and (max-height: 575px){  
+    .card-img-top1{
+      height: 140px;
+    }
+    .card-img-top1:hover{
+        height: 150px;
+    }   
+    }
